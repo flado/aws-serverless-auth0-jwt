@@ -15,7 +15,7 @@ This is an example of how to protect API endpoints with [auth0](https://auth0.co
 
 Custom Authorizers allow you to run an AWS Lambda Function before your targeted AWS Lambda Function. This is useful for Microservice Architectures or when you simply want to do some Authorization before running your business logic.
 
-### [View live demo](http://auth0-serverless-protected-routes-demo.surge.sh/)
+### [View live demo](http://flado-serverless-auth0-demo.surge.sh/)
 
 ## Use cases
 
